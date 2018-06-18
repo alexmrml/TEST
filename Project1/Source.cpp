@@ -16,6 +16,7 @@ double pi;
 double Nbegin; //Левая граница интервала
 double Nend; //Правая граница интервала
 double step; //Шаг изменения аргумента
+//ИЗМЕНЕНИЕ
 double phi; //Значение угла
 double k; //Коэффициент кратности
 double Delta; //Оценка «Дельта»
